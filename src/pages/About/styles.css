@@ -1,0 +1,40 @@
+.about {
+    padding-top: 1em;
+    background-color: #f2f2f2;
+}
+
+.container {
+    display: flex;
+    flex-direction: row;
+    gap: 2em;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    padding: 4rem;
+}
+
+.wrapper {
+    text-align: left;
+    width: 50%;
+    text-transform: none;
+}
+
+.me-pic {
+    margin-left: 4em;
+    margin-right: 4em;
+    height: auto;
+    width: 20em;
+    border-radius: 10px;
+    box-shadow: 0 5px 10px rgba(0, 0, 0, 0.6);
+    background-color: azure;
+    mix-blend-mode: luminosity;
+    transition: 0.5s;
+}
+
+.me-pic:hover {
+    mix-blend-mode: normal;
+    box-shadow: 6px 9px 1px #BDBDBD;
+}
+
+.cvButton:hover {
+    box-shadow: 0 5px 10px rgba(0, 0, 0, 0.6);
+}
