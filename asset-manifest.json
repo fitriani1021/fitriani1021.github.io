@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/fitriani1021.github.io/static/css/main.601bff40.css",
-    "main.js": "/fitriani1021.github.io/static/js/main.2cb09ece.js",
-    "static/js/787.1315a2c5.chunk.js": "/fitriani1021.github.io/static/js/787.1315a2c5.chunk.js",
-    "static/media/my_resume.pdf": "/fitriani1021.github.io/static/media/my_resume.186c23fd4aec3b276b70.pdf",
-    "static/media/me.jpg": "/fitriani1021.github.io/static/media/me.33b518bece4e7bfdde11.jpg",
-    "static/media/logo.jpeg": "/fitriani1021.github.io/static/media/logo.9e706674ba01754cbbd4.jpeg",
-    "index.html": "/fitriani1021.github.io/index.html",
-    "main.601bff40.css.map": "/fitriani1021.github.io/static/css/main.601bff40.css.map",
-    "main.2cb09ece.js.map": "/fitriani1021.github.io/static/js/main.2cb09ece.js.map",
-    "787.1315a2c5.chunk.js.map": "/fitriani1021.github.io/static/js/787.1315a2c5.chunk.js.map"
+    "main.css": "/static/css/main.601bff40.css",
+    "main.js": "/static/js/main.52e1098d.js",
+    "static/js/787.1315a2c5.chunk.js": "/static/js/787.1315a2c5.chunk.js",
+    "static/media/my_resume.pdf": "/static/media/my_resume.186c23fd4aec3b276b70.pdf",
+    "static/media/me.jpg": "/static/media/me.33b518bece4e7bfdde11.jpg",
+    "static/media/logo.jpeg": "/static/media/logo.9e706674ba01754cbbd4.jpeg",
+    "index.html": "/index.html",
+    "main.601bff40.css.map": "/static/css/main.601bff40.css.map",
+    "main.52e1098d.js.map": "/static/js/main.52e1098d.js.map",
+    "787.1315a2c5.chunk.js.map": "/static/js/787.1315a2c5.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.601bff40.css",
-    "static/js/main.2cb09ece.js"
+    "static/js/main.52e1098d.js"
   ]
 }
